@@ -16,5 +16,7 @@ Dimensional weight is a pretty big issue too, so minimizing it is very important
 
 Boxes do not need to be cut very accurately, so it should be very cheap to build such a large 2D CNC Router. 
 
-The software that corresponds to this machine could also etc/burn the shipping label directly onto the box shortly after the box as been cut out - so despite the initial cost of such a machine, it would also save on the labor and expenses when it comes to shipping lables. A company logo could be added easily as well. 
+//////Bad idea since it requires it to be very accurate and would increase the cos///The software that corresponds to this machine could also etc/burn the shipping label directly onto the box shortly after the box as been cut out - so despite the initial cost of such a machine, it would also save on the labor and expenses when it comes to shipping lables. A company logo could be added easily as well. 
+
+The cheapest way to build it would be like an etch-a-sketch with two stepper motors: https://youtu.be/ulblySFElo4?t=1m24s
 
